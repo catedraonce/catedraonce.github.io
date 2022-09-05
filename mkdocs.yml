@@ -1,0 +1,18 @@
+site_name: Catedra UCM-ONCE 
+site_url: https://catedraonce.github.io
+markdown_extensions:
+    - admonition
+nav:
+        - Home: index.md
+        - General info.: General/index.md
+        - News: News/index.md
+        - Subjects:
+                - IOTNA: Subjects/IOTNA/index.md
+                - MDM: Subjects/MDM/index.md
+                - SID: Subjects/SID/index.md
+                - IA: Subjects/IA/index.md
+                - NP1: Subjects/NP1/index.md
+                - NP2: Subjects/NP2/index.md
+                - SEC: Subjects/SEC/index.md
+                - EDGE: Subjects/EDGE/index.md
+        - Contact: Contact/index.md
