@@ -5,6 +5,7 @@ markdown_extensions:
 nav:
         - Inicio: index.md
         - Novedades: News/index.md
+        - Empleo: Empleo/index.md
         - Premios Cátedra: Premios/index.md
         - Módulos:
                 - Módulo 1: Subjects/Modulo1/index.md
