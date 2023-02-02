@@ -4,7 +4,7 @@
 
 Para cubrir estas ofertas se buscan a dos graduados en Informática o similares (Telecomunicaciones, Física, Matemáticas, Industriales, etc), que tengan conocimientos de programación en Android y Matlab o Phyton. Valoraremos positivamente conocimientos de Cordoba para Android y el Framework Ionic 2, y en el caso de no tenerlos se proporcionará formación previa. Buscamos a gente con conocimientos avanzados de Ingeniería del Software y con capacidad de trabajo en equipo. 
 
-Se empezaría a trabajar en abril/mayo del 2023 con una duración en primera instancia de 18 meses. Será jornada completa y el horario será mixto, presencial y teletrabajo. 
+Se empezaría a trabajar en abril/mayo del 2023 con una duración en primera instancia de 30 meses y con posibilidad de continuidad. Será jornada completa y el horario será mixto, presencial y teletrabajo. 
 
 **Tareas a realizar:**
 
