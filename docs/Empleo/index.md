@@ -21,3 +21,13 @@ Se empezaría a trabajar en abril/mayo del 2023 con una duración en primera ins
 **Cualquier duda contactar con**: [mguijarro@ucm.es](mailto:mguijarro@ucm.es) o [recas@ucm.es](mailto:recas@ucm.es)
 
  [Más información](Oferta de empleo.pdf) 
+
+## Actualización:
+
+El 14 de marzo ha salido publicada la oferta de empleo en la página web de la UCM, convocatoria PAI 5-2023. Se puede acceder a la convocatoria y a toda la información necesaria en el siguiente enlace:
+
+https://www.ucm.es/personal-de-apoyo-a-la-investigacion-pai-ucm
+
+El plazo de presentación de solicitudes estará abierto desde el 15 de marzo hasta las 14:00 horas del 22 de marzo de 2023.
+
+Los listados de admitidos y excluidos, así como las adjudicaciones aparecerán publicadas en el mismo enlace.
