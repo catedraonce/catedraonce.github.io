@@ -36,6 +36,10 @@ En el presente proyecto de investigación se propone avanzar en este sentido, a
 
 * Recas Piorno, J.; Guijarro Mata-García, M.; Bernárdez Vilaboa, R. *"Dispositivo accesible a personas ciegas para el estudio del funcionamiento de circuitos digitales secuenciales"*. Nº de publicación: ES2958784 A1. [Enlace](https://consultas2.oepm.es/InvenesWeb/detalle?referencia=P202330519).
 
+## Congresos
+
+González Montero, G.;Guijarro Mata-García, M.; Recas Piorno, J.; Gutiérrez Hernández, A.; Sánchez Pérez, I. *"InnoVisión: projecto interdisciplinar para melhorar a qualidade de vida de pessoas com baixa visão”*.  XXV Congresso Internacional De Optometria E Contactologia (XXV CIOC’23), organizado por la União Profissional Dos Ópticos E Optometristas Portugueses. Fecha: 24, 25 e 26 de marzo de 2023. Ponencia Invitada.
+
 ## Congresos en revisión
 
 * Juan Bayón Fernández, Joaquín Recas Piorno, Jonathan José Jiménez Jiménez, María Guijarro Mata-García. *"Blue Light Digital Filter with accurate color representation, contrast and quality"*. Computer Graphics International (CGI) congress (to be published in LNCS, Srpinger). Regular Paper. Track number: 112.
