@@ -4,13 +4,10 @@ markdown_extensions:
     - admonition
 nav:
         - Inicio: index.md
-        - Novedades: News/index.md
+        - Proyectos:
+                - InnoVision: Projects/InnoVision.md
+                - IrisEmp: Projects/IrisEmp.md
+#       - Novedades: News/index.md
         - Empleo: Empleo/index.md
-        - Premios Cátedra: Premios/index.md
-        - Módulos:
-                - Módulo 1: Subjects/Modulo1/index.md
-                - Módulo 2: Subjects/Modulo2/index.md
-                - Módulo 3: Subjects/Modulo3/index.md
-                - Módulo 4: Subjects/Modulo4/index.md
-                
+        - Premios Cátedra: Premios/index.md                
         - Contacto: Contact/index.md
