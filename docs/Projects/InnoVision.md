@@ -26,7 +26,7 @@ En el presente proyecto de investigación se propone avanzar en este sentido, a
 ## Artículos en revisión
 
 * Bayón Fernández, J.; Recas Piorno, J.; Jiménez Jiménez, J.J.; Botella Juan, G.; Guijarro Mata-García, M. *"Innovative design of a blue light filter preserving color perception and information"*. Multimedia Tools and Applications.  Manuscript number: MTAP-D-24-02834 Initial Date submitted: 2024-03-12 14:22:10
-* Jiménez Jiménez, J.J.; Guijarro Mata-García, M.; Bayón Fernández, J.; Bernardez, R.; Camara, R.; Recas, J. *"Retiplus: Augmented reality rehabilitation system to improve the autonomy and quality of life of people with low vision"*. IEEE Journal of Biomedical and Health Informatics". Enviado el 1 de mayo del 2024.
+* Jiménez Jiménez, J.J.; Guijarro Mata-García, M.; Bayón Fernández, J.; Bernardez, R.; Camara, R.; Recas, J. *"Retiplus: Augmented reality rehabilitation system to improve the autonomy and quality of life of people with low vision"*. Displays, Elsevier. Manuscript Number: DISPLA-D-24-00475. Enviado el 14 de junio del 2024.
 
 ## Patentes aceptadas
 
@@ -38,12 +38,13 @@ En el presente proyecto de investigación se propone avanzar en este sentido, a
 
 ## Congresos
 
-González Montero, G.;Guijarro Mata-García, M.; Recas Piorno, J.; Gutiérrez Hernández, A.; Sánchez Pérez, I. *"InnoVisión: projecto interdisciplinar para melhorar a qualidade de vida de pessoas com baixa visão”*.  XXV Congresso Internacional De Optometria E Contactologia (XXV CIOC’23), organizado por la União Profissional Dos Ópticos E Optometristas Portugueses. Fecha: 24, 25 e 26 de marzo de 2023. Ponencia Invitada.
+* González Montero, G.;Guijarro Mata-García, M.; Recas Piorno, J.; Gutiérrez Hernández, A.; Sánchez Pérez, I. *"InnoVisión: projecto interdisciplinar para melhorar a qualidade de vida de pessoas com baixa visão”*.  XXV Congresso Internacional De Optometria E Contactologia (XXV CIOC’23), organizado por la União Profissional Dos Ópticos E Optometristas Portugueses. Fecha: 24, 25 e 26 de marzo de 2023. Ponencia Invitada.
+* Juan Bayón Fernández, Joaquín Recas Piorno, Jonathan José Jiménez Jiménez, María Guijarro Mata-García. "*Filtrado de luz azul con mínima distorsión para vídeo*". XLV Jornadas de Automática, organizado por el Comité Español de Automática (CEA). Lugar de celebración Málaga, días 4, 5 y 6 de septiembre de 2024.
+* Juan Bayón Fernández, Joaquín Recas Piorno, Jonathan José Jiménez Jiménez, María Guijarro Mata-García. *"Blue Light Digital Filter with accurate color representation, contrast and quality"*. Computer Graphics International (CGI) congress 2024 Geneva (to be published in LNCS, Srpinger). Regular Paper. Track number: 112.
 
 ## Congresos en revisión
 
-* Juan Bayón Fernández, Joaquín Recas Piorno, Jonathan José Jiménez Jiménez, María Guijarro Mata-García. *"Blue Light Digital Filter with accurate color representation, contrast and quality"*. Computer Graphics International (CGI) congress (to be published in LNCS, Srpinger). Regular Paper. Track number: 112.
-* Título provisional (WIP): *"Realistic spatial blue light filtering for augmented reality video"* British Machine Vision Conference (BMVC). Regular Paper.
+* Título provisional (WIP): *"Realistic Volumetric Blue Light Filtering Applied for Augmented and Virtual Reality Real-time Video"* British Machine Vision Conference (BMVC). Regular Paper.
 
 ## Otras publicaciones
 
