@@ -19,7 +19,7 @@ En el presente proyecto de investigación se propone avanzar en este sentido, a
 * Sistemas de inteligencia artificial capaces de recoger la información visual y auditiva, la procesen y le presenten al usuario datos relevantes y personalizados.
 * Otros sensores o interfaces de comunicación adecuados para el usuario. Ejemplos de posibles dispositivos son: teléfonos móviles, botoneras, sensores de movimiento, etc.
 
-## Artículo publicados
+## Artículos publicados
 
 * Guijarro, M.; Bayon, J.; Martín-Carabias, D.; Recas, J. A "*Multi-Stage Method for Logo Detection in Scanned Official Documents Based on Image Processing"*. Algorithms 2024, 17, 170. DOI: [10.3390/a17040170](https://doi.org/10.3390/a17040170)
 * González-Montero, G., Guijarro Mata-García, M., Moreno Martínez, C. *et al.* "*Rehab-AMD: co-design of an application for visual rehabilitation and monitoring of Age-related Macular Degeneration*". BMC Medical Informatics and Decision Making, 24, 233 (2024). DOI: [10.1186/s12911-024-02625-w](https://doi.org/10.1186/s12911-024-02625-w)
