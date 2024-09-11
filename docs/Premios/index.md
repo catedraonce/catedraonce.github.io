@@ -1,6 +1,6 @@
 # Premios de la Cátedra a TFGs y TFMs 2023/24
 
-La Cátedra ONCE-Tiflotecnología tiene el placer de invitaros a la convocatoria de **Premios a los mejores trabajos de Fin de Grado y Fin de Máster <u>accesibles e inclusivos</u>** del curso 2023-24, abiertos a todas las disciplinas y áreas de conocimiento dentro de la UCM.
+La Cátedra ONCE-Tiflotecnología tiene el placer de invitaros a la convocatoria de **Premios a los mejores trabajos de Fin de Grado y Fin de Máster <u>accesibles e inclusivos</u>** del curso 2023-24 ([Cartel](Convocatoria 2024_Premios_TFGyTFM.pdf)), abiertos a todas las disciplinas y áreas de conocimiento dentro de la UCM.
 
 |                | **Premios TFGs:** |                |
 | :------------ | :--------------- | :------------ |
@@ -22,6 +22,8 @@ Tanto el documento de consentimiento como la memoria deberán entregarse en form
 Las propuestas se enviarán por correo electrónico a **[catedraonce@ucm.es](mailto:catedraonce@ucm.es)** hasta el **13 de septiembre de 2024**. Además de la documentación, los participantes habrán de realizar una presentación pública de la propuesta.
 
 La convocatoria se encuentra publicada en el siguiente enlace: [https://bouc.ucm.es/pdf/5248.pdf](https://bouc.ucm.es/pdf/5248.pdf) 
+
+**Formulario de conformidad: [enlace de descarga](conformes-1.docx)**
 
 # Premios de la Cátedra a TFGs y TFMs 2022/23
 
