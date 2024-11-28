@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-bs-theme="light">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,14 +10,15 @@
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>Conferencias - Catedra UCM-ONCE</title>
         <link href="../css/bootstrap.min.css" rel="stylesheet">
-        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../css/brands.min.css" rel="stylesheet">
+        <link href="../css/solid.min.css" rel="stylesheet">
+        <link href="../css/v4-font-face.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
-
-        <script src="../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../js/bootstrap.min.js" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-        <script>hljs.initHighlightingOnLoad();</script> 
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
     </head>
 
     <body>
@@ -25,7 +26,7 @@
             <div class="container">
                 <a class="navbar-brand" href="..">Catedra UCM-ONCE</a>
                 <!-- Expander button -->
-                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
@@ -33,11 +34,11 @@
                 <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li class="navitem">
+                            <li class="nav-item">
                                 <a href=".." class="nav-link">Inicio</a>
                             </li>
-                            <li class="dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Proyectos <b class="caret"></b></a>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Proyectos</a>
                                 <ul class="dropdown-menu">
                                     
 <li>
@@ -49,23 +50,23 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="navitem">
+                            <li class="nav-item">
                                 <a href="../Empleo/" class="nav-link">Empleo</a>
                             </li>
-                            <li class="navitem">
+                            <li class="nav-item">
                                 <a href="../Premios/" class="nav-link">Premios Cátedra</a>
                             </li>
-                            <li class="navitem active">
-                                <a href="./" class="nav-link">Conferencias</a>
+                            <li class="nav-item">
+                                <a href="./" class="nav-link active" aria-current="page">Conferencias</a>
                             </li>
-                            <li class="navitem">
+                            <li class="nav-item">
                                 <a href="../Contact/" class="nav-link">Contacto</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav ml-auto">
+                    <ul class="nav navbar-nav ms-md-auto">
                         <li class="nav-item">
-                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
@@ -86,18 +87,18 @@
 
         <div class="container">
             <div class="row">
-                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
     <div class="navbar-header">
-        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
             <span class="fa fa-angle-down"></span>
         </button>
     </div>
 
     
-    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#conferencias" class="nav-link">Conferencias</a>
+            <li class="nav-item" data-bs-level="1"><a href="#conferencias" class="nav-link">Conferencias</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -109,95 +110,95 @@
 <h1 id="conferencias">Conferencias</h1>
 <p>Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra Extraordinaria ONCE-Tiflotecnología que tuvo su inicio en febrero de 2020 y renovada en los años 2022 y 2024, donde se contemplan tanto actuaciones de formación como de difusión del conocimiento. </p>
 <p>Las conferencias serán en horario de mañana a las 10h o en horario de tarde a las 19h en el enlace <em>meet</em>:  <a href="http://meet.google.com/awm-vayj-mpd">meet.google.com/awm-vayj-mpd</a>.</p>
-<p><strong>26/02/24 -</strong> <em>EDICO: Editor Científico para la inclusión de personas con discapacidad visual en las aulas de ciencias</em></p>
-<p><strong>27/02/24 -</strong> <em>BRAITICO, Método braille para la alfabetización y competencia lectoescritora desde la infancia a la adolescencia</em></p>
-<p><strong>28/02/24 -</strong> <em>Sostenibilidad, Ciencia y Arte: diseño en 3D de microorganismos acuáticos para la docencia inclusiva</em></p>
-<p><strong>29/02/24 -</strong> <em>Sensivisual: Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual al proceso de Enseñanza-Aprendizaje</em></p>
+<p><strong>26/02/24 (Mañana) -</strong> <em>EDICO: Editor Científico para la inclusión de personas con discapacidad visual en las aulas de ciencias</em></p>
+<p><strong>27/02/24 (Mañana) -</strong> <em>BRAITICO, Método braille para la alfabetización y competencia lectoescritora desde la infancia a la adolescencia</em></p>
+<p><strong>28/02/24 (Mañana) -</strong> <em>Sostenibilidad, Ciencia y Arte: diseño en 3D de microorganismos acuáticos para la docencia inclusiva</em></p>
+<p><strong>29/02/24 (Mañana) -</strong> <em>Sensivisual: Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual al proceso de Enseñanza-Aprendizaje</em></p>
 <p><strong>23/02/24 (Mañana) -</strong> <em>La accesibilidad digital: plataformas, formatos y contenidos</em></p>
 <p><strong>23/02/24 (Tarde) -</strong> <em>Audiovisuales y discapacidad visual</em></p>
 <p><strong>26/02/24 (Mañana) -</strong> <em>Edico: editor científico inclusivo para personas con discapacidad visual (1)</em></p>
 <p><strong>26/02/24 (Tarde) -</strong> <em>Edico: editor científico inclusivo para personas con discapacidad visual (2)</em></p>
 <p><strong>27/02/24 (Mañana) -</strong> <em>Edico: editor científico inclusivo para personas con discapacidad visual (3)</em></p>
 <p><strong>27/02/24 (Tarde) -</strong> <em>Edico: editor científico inclusivo para personas con discapacidad visual (4)</em></p>
-<p><strong>28/02/24 -</strong> <em>Edico: editor científico inclusivo para personas con discapacidad visual (5)</em></p>
-<p><strong>29/02/24 -</strong> <em>Diseño y aplicación al aula de un modelo de asistente semi-automático accesible para procesos de aprendizaje presenciales</em></p>
-<p><strong>01/03/24 -</strong> <em>Herramientas tiflotecnológicas para mejorar la accesibilidad de personas con discapacidad visual</em></p>
-<p><strong>04/03/24 -</strong> <em>Tiflotecnología: dispositivos tecnológicos como ayuda a la integración de las personas ciegas o con otra discapacidad</em></p>
-<p><strong>04/03/24 -</strong> <em>Diseños en 3D de circuitos para el aprendizaje accesible</em></p>
-<p><strong>04/03/24 -</strong> <em>Modificaciones de color como mejoras de la calidad de vida de las personas con baja visión, aplicado a la realidad aumentada</em></p>
-<p><strong>05/03/24 -</strong> <em>DACTYLS: diseño de aplicaciones en IoS y Android inclusivas y accesibles</em></p>
-<p><strong>05/03/24 -</strong> <em>Técnicas de procesamiento de imagen en realidad aumentada para la mejora de la calidad de vida de las personas con baja visión</em></p>
-<p><strong>05/03/24 -</strong> <em>Innovisión: proyecto interdisciplinar para mejorar la calidad de vida de las personas con baja visión</em></p>
-<p><strong>06/03/24 -</strong> <em>De la ciencia a la Tiflotecnología: Tecnología accesible e inclusiva (1)</em></p>
-<p><strong>07/03/24 -</strong> <em>De la ciencia a la Tiflotecnología: Tecnología accesible e inclusiva (2)</em></p>
-<p><strong>11/03/24</strong> - <em>De la ciencia a la Tiflotecnología: IA y datos aplicados a la accesibilidad tecnológica</em></p>
-<p><strong>13/03/24</strong> - <em>De la ciencia a la Tiflotecnología: Herramientas de IA para la educación accesible</em></p>
-<p><strong>14/03/24</strong> - <em>Sensibilización y formación en accesibilidad: IA y la inclusión de personas con discapacidad visual en entornos digitales</em></p>
-<p><strong>02/04/24</strong> - <em>IA y accesibilidad laboral: Integrando inteligencia artificial en la inclusión de personas con discapacidad visual</em></p>
-<p><strong>03/04/24</strong> - <em>Diseños inclusivos responsables: IA y estrategias basadas en datos para una accesibilidad universal</em></p>
-<p><strong>04/04/24</strong> - <em>Accesibilidad, diseño y datos: Retos y oportunidades con IA en la tiflotecnología</em></p>
-<p><strong>22/04/24</strong> - <em>Diseño de hardware accesible: IA aplicada a dispositivos para personas con discapacidad visual</em></p>
-<p><strong>23/04/24</strong> - <em>Tiflodesarrollo: IA y aplicaciones tecnológicas avanzadas para la inclusión educativa</em></p>
-<p><strong>24/04/24</strong> - <em>DACTYLS Plus: IA y datos en el aprendizaje dactilológico inclusivo</em></p>
-<p><strong>25/04/24</strong> - <em>Braitico Avanzado: IA y la enseñanza del Braille en la era digital</em></p>
-<p><strong>06/05/24</strong> - <em>Tecnología Inclusiva y el Futuro: Inteligencia Artificial y accesibilidad social a través de datos</em></p>
-<p><strong>07/05/24</strong> - <em>RiD: IA aplicada al Diseño Inclusivo Adaptativo para la Educación y la Tecnología</em></p>
-<p><strong>08/05/24</strong> - <em>RiD: Accesibilidad en espacios públicos impulsada por IA y gestión de datos</em></p>
-<p><strong>09/05/24</strong> - <em>RiD: IA para aplicaciones móviles accesibles</em></p>
-<p><strong>13/05/24</strong> - <em>RiD: IA y experiencia del usuario accesible basada en datos</em></p>
-<p><strong>14/05/24</strong> - <em>IA y Diseño Inclusivo Adaptativo: Mejoras en el entorno de trabajo accesible</em></p>
-<p><strong>16/05/24</strong> - <em>Tiflotecnología y Realidad Aumentada: IA y datos para movilidad urbana inclusiva</em></p>
-<p><strong>20/05/24</strong> - <em>DACTYLS: IA y la evolución del aprendizaje inclusivo para la discapacidad visual</em></p>
-<p><strong>21/05/24</strong> - <em>Tecnología accesible para la autonomía personal: IA y datos para mejorar la independencia</em></p>
-<p><strong>22/05/24</strong> - <em>Braitico Avanzado: IA y nuevas estrategias educativas en la enseñanza del Braille</em></p>
-<p><strong>03/06/24</strong> - <em>De la ciencia a la Tiflotecnología: IA y datos para la inclusión tecnológica</em></p>
-<p><strong>04/06/24</strong> - <em>IA y accesibilidad: El papel de los datos en la inclusión social de personas con discapacidad visual</em></p>
-<p><strong>05/06/24</strong> - <em>Sensibilización en el diseño inclusivo: Cómo integrar IA y datos para mejorar la accesibilidad</em></p>
-<p><strong>06/06/24</strong> - <em>Accesibilidad y educación: IA y los desafíos de la enseñanza a personas con discapacidad visual</em></p>
-<p><strong>07/06/24</strong> - <em>Tecnología inclusiva y datos: Soluciones accesibles potenciadas por IA para la vida cotidiana</em></p>
-<p><strong>10/06/24</strong> - <em>RiD: IA en el Diseño Inclusivo Adaptativo para herramientas educativas digitales</em></p>
-<p><strong>10/06/24</strong> - RiD: Diseño Inclusivo Adaptativo para la Accesibilidad en Espacios Públicos</p>
-<p><strong>11/06/24</strong> - RiD: Diseño Inclusivo Adaptativo para Aplicaciones Móviles Accesibles</p>
-<p><strong>11/06/24</strong> - <em>Tiflotecnología e IA: Creación de dispositivos accesibles basados en datos para la movilidad personal</em></p>
-<p><strong>12/06/24</strong> - RiD: Diseño Inclusivo Adaptativo para la Experiencia del Usuario Accesible</p>
-<p><strong>12/06/24</strong> - <em>Accesibilidad en software: IA y datos para soluciones inclusivas desde el diseño hasta la implementación</em></p>
-<p><strong>13/06/24</strong> - RiD: Responsive Inclusive Design</p>
-<p><strong>13/06/24</strong> - <em>Tiflotecnología para la independencia: IA y dispositivos accesibles basados en datos</em></p>
-<p><strong>24/06/24</strong> - <em>DACTYLS: IA en el desarrollo inclusivo dactilológico para entornos de aprendizaje</em></p>
-<p><strong>25/06/24</strong> - <em>Braitico para la era digital: Enseñanza inclusiva del Braille con IA y gestión de datos</em></p>
-<p><strong>27/06/24</strong> - <em>RiD: IA y datos en el Diseño Inclusivo Adaptativo para mejorar la experiencia del usuario con discapacidad visual</em></p>
-<p><strong>02/09/24</strong> - De la ciencia a la Tiflotecnología: Innovaciones en accesibilidad tecnológica para la inclusión</p>
-<p><strong>03/09/24</strong> - De la ciencia a la Tiflotecnología: Herramientas inclusivas para la educación accesible</p>
-<p><strong>04/09/24</strong> - Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual en el entorno digital</p>
-<p><strong>05/09/24</strong> - Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual en el ámbito laboral</p>
-<p><strong>09/09/24</strong> - Diseños inclusivos responsables: Estrategias para una accesibilidad universal</p>
-<p><strong>09/09/24</strong> - <em>Diseños inclusivos y accesibles: Integración de IA y datos en la educación inclusiva</em></p>
-<p><strong>10/09/24</strong> - <em>De la ciencia a la inclusión: Tiflotecnología impulsada por IA y datos en la innovación educativa</em></p>
-<p><strong>10/09/24</strong> - Accesibilidad y diseño en la tiflotecnología: Retos y oportunidades</p>
-<p><strong>11/09/24</strong> - La inclusión desde el diseño de hardware accesible para personas con discapacidad visual</p>
-<p><strong>11/09/24</strong> - <em>IA y accesibilidad laboral: Cómo los datos mejoran la inclusión de personas con discapacidad visual</em></p>
-<p><strong>12/09/24</strong> - Tiflodesarrollo: Aplicaciones tecnológicas avanzadas para la inclusión educativa</p>
-<p><strong>12/09/24</strong> - <em>Accesibilidad inteligente: Diseño de soluciones tecnológicas centradas en IA y datos</em></p>
-<p><strong>16/09/24</strong> - <em>Tiflotecnología emergente: IA y datos para una accesibilidad digital avanzada</em></p>
-<p><strong>17/09/24</strong> - <em>Software inclusivo: El futuro del diseño accesible con IA y análisis de datos</em></p>
-<p><strong>16/09/24</strong> - DACTYLS Plus: Nuevas funciones para un aprendizaje dactilológico inclusivo</p>
-<p><strong>17/09/24</strong> - Braitico Avanzado: Metodologías innovadoras para la enseñanza del Braille en la era digital</p>
-<p><strong>18/09/24</strong> - <em>Innovación accesible: IA y datos para mejorar la vida de personas con discapacidad visual</em></p>
-<p><strong>19/09/24</strong> - <em>RiD: IA y Diseño Inclusivo Adaptativo para mejorar la interacción digital accesible</em></p>
-<p><strong>18/09/24</strong> - Tecnología Inclusiva y el Futuro: Inteligencia Artificial centrada en la accesibilidad social</p>
-<p><strong>19/09/24</strong> - RiD: Diseño Inclusivo Adaptativo para la Educación y la Tecnología</p>
-<p><strong>23/09/24</strong> - RiD: Diseño Inclusivo Adaptativo para la Accesibilidad en Espacios Públicos</p>
-<p><strong>24/09/24</strong> - RiD: Diseño Inclusivo Adaptativo para Aplicaciones Móviles Accesibles</p>
-<p><strong>25/09/24</strong> - RiD: Diseño Inclusivo Adaptativo para la Experiencia del Usuario Accesible</p>
-<p><strong>26/09/24</strong> - RiD: Diseño Inclusivo Adaptativo en el Entorno de Trabajo</p>
-<p><strong>30/09/24</strong> - Tiflotecnología y Realidad Aumentada: Herramientas inclusivas para la movilidad urbana</p>
-<p><strong>01/10/24</strong> - DACTYLS: Evolución y futuro del aprendizaje inclusivo de la lengua de signos para la discapacidad visual</p>
-<p><strong>02/10/24</strong> - Tecnología accesible para el desarrollo de la autonomía personal en personas con discapacidad visual</p>
-<p><strong>03/10/24</strong> - Braitico Avanzado: Nuevas estrategias educativas en la enseñanza del Braille en el aula inclusiva</p>
-<p><strong>04/10/24</strong> - De la ciencia a la Tiflotecnología: Innovaciones en accesibilidad tecnológica para la inclusión</p>
-<p><strong>07/10/24</strong> - RiD: Diseño Inclusivo Adaptativo para Aplicaciones Móviles Accesibles</p>
-<p><strong>08/10/24</strong> - RiD: Diseño Inclusivo Adaptativo en el Entorno de Trabajo</p>
-<p><strong>09/10/24</strong> - RiD: Diseño Inclusivo Adaptativo para la Educación y la Tecnología</p></div>
+<p><strong>28/02/24 (Mañana) -</strong> <em>Edico: editor científico inclusivo para personas con discapacidad visual (5)</em></p>
+<p><strong>29/02/24 (Mañana) -</strong> <em>Diseño y aplicación al aula de un modelo de asistente semi-automático accesible para procesos de aprendizaje presenciales</em></p>
+<p><strong>01/03/24 (Mañana) -</strong> <em>Herramientas tiflotecnológicas para mejorar la accesibilidad de personas con discapacidad visual</em></p>
+<p><strong>04/03/24 (Tarde) -</strong> <em>Tiflotecnología: dispositivos tecnológicos como ayuda a la integración de las personas ciegas o con otra discapacidad</em></p>
+<p><strong>04/03/24 (Mañana) -</strong> <em>Diseños en 3D de circuitos para el aprendizaje accesible</em></p>
+<p><strong>04/03/24 (Mañana) -</strong> <em>Modificaciones de color como mejoras de la calidad de vida de las personas con baja visión, aplicado a la realidad aumentada</em></p>
+<p><strong>05/03/24 (Mañana) -</strong> <em>DACTYLS: diseño de aplicaciones en IoS y Android inclusivas y accesibles</em></p>
+<p><strong>05/03/24 (Mañana) -</strong> <em>Técnicas de procesamiento de imagen en realidad aumentada para la mejora de la calidad de vida de las personas con baja visión</em></p>
+<p><strong>05/03/24 (Mañana) -</strong> <em>Innovisión: proyecto interdisciplinar para mejorar la calidad de vida de las personas con baja visión</em></p>
+<p><strong>06/03/24 (Mañana) -</strong> <em>De la ciencia a la Tiflotecnología: Tecnología accesible e inclusiva (1)</em></p>
+<p><strong>07/03/24 (Mañana) -</strong> <em>De la ciencia a la Tiflotecnología: Tecnología accesible e inclusiva (2)</em></p>
+<p><strong>11/03/24 (Tarde) -</strong> <em>De la ciencia a la Tiflotecnología: IA y datos aplicados a la accesibilidad tecnológica</em></p>
+<p><strong>13/03/24 (Tarde) -</strong>De la ciencia a la Tiflotecnología: Herramientas de IA para la educación accesible*</p>
+<p><strong>14/03/24 (Tarde) -</strong> <em>Sensibilización y formación en accesibilidad: IA y la inclusión de personas con discapacidad visual en entornos digitales</em></p>
+<p><strong>02/04/24 (Tarde) -</strong> <em>IA y accesibilidad laboral: Integrando inteligencia artificial en la inclusión de personas con discapacidad visual</em></p>
+<p><strong>03/04/24 (Tarde) -</strong> <em>Diseños inclusivos responsables: IA y estrategias basadas en datos para una accesibilidad universal</em></p>
+<p><strong>04/04/24 (Tarde) -</strong> <em>Accesibilidad, diseño y datos: Retos y oportunidades con IA en la tiflotecnología</em></p>
+<p><strong>22/04/24 (Tarde) -</strong> <em>Diseño de hardware accesible: IA aplicada a dispositivos para personas con discapacidad visual</em></p>
+<p><strong>23/04/24 (Tarde) -</strong> <em>Tiflodesarrollo: IA y aplicaciones tecnológicas avanzadas para la inclusión educativa</em></p>
+<p><strong>24/04/24 (Tarde) -</strong> <em>DACTYLS Plus: IA y datos en el aprendizaje dactilológico inclusivo</em></p>
+<p><strong>25/04/24 (Tarde) -</strong> <em>Braitico Avanzado: IA y la enseñanza del Braille en la era digital</em></p>
+<p><strong>06/05/24 (Tarde) -</strong> <em>Tecnología Inclusiva y el Futuro: Inteligencia Artificial y accesibilidad social a través de datos</em></p>
+<p><strong>07/05/24 (Tarde) -</strong> <em>RiD: IA aplicada al Diseño Inclusivo Adaptativo para la Educación y la Tecnología</em></p>
+<p><strong>08/05/24 (Tarde) -</strong> <em>RiD: Accesibilidad en espacios públicos impulsada por IA y gestión de datos</em></p>
+<p><strong>09/05/24 (Tarde) -</strong> <em>RiD: IA para aplicaciones móviles accesibles</em></p>
+<p><strong>13/05/24 (Tarde) -</strong> <em>RiD: IA y experiencia del usuario accesible basada en datos</em></p>
+<p><strong>14/05/24 (Tarde) -</strong> <em>IA y Diseño Inclusivo Adaptativo: Mejoras en el entorno de trabajo accesible</em></p>
+<p><strong>16/05/24 (Tarde) -</strong> <em>Tiflotecnología y Realidad Aumentada: IA y datos para movilidad urbana inclusiva</em></p>
+<p><strong>20/05/24 (Tarde) -</strong> <em>DACTYLS: IA y la evolución del aprendizaje inclusivo para la discapacidad visual</em></p>
+<p><strong>21/05/24 (Tarde) -</strong> <em>Tecnología accesible para la autonomía personal: IA y datos para mejorar la independencia</em></p>
+<p><strong>22/05/24 (Tarde) -</strong> <em>Braitico Avanzado: IA y nuevas estrategias educativas en la enseñanza del Braille</em></p>
+<p><strong>03/06/24 (Tarde) -</strong> <em>De la ciencia a la Tiflotecnología: IA y datos para la inclusión tecnológica</em></p>
+<p><strong>04/06/24 (Tarde) -</strong> <em>IA y accesibilidad: El papel de los datos en la inclusión social de personas con discapacidad visual</em></p>
+<p><strong>05/06/24 (Tarde) -</strong> <em>Sensibilización en el diseño inclusivo: Cómo integrar IA y datos para mejorar la accesibilidad</em></p>
+<p><strong>06/06/24 (Tarde) -</strong> <em>Accesibilidad y educación: IA y los desafíos de la enseñanza a personas con discapacidad visual</em></p>
+<p><strong>07/06/24 (Tarde) -</strong> <em>Tecnología inclusiva y datos: Soluciones accesibles potenciadas por IA para la vida cotidiana</em></p>
+<p><strong>10/06/24 (Mañana) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para la Accesibilidad en Espacios Públicos</em></p>
+<p><strong>10/06/24 (Tarde) -</strong> <em>RiD: IA en el Diseño Inclusivo Adaptativo para herramientas educativas digitales</em></p>
+<p><strong>11/06/24 (Mañana) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para Aplicaciones Móviles Accesibles</em></p>
+<p><strong>11/06/24 (Tarde) -</strong> <em>Tiflotecnología e IA: Creación de dispositivos accesibles basados en datos para la movilidad personal</em></p>
+<p><strong>12/06/24 (Mañana) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para la Experiencia del Usuario Accesible</em></p>
+<p><strong>12/06/24 (Tarde) -</strong> <em>Accesibilidad en software: IA y datos para soluciones inclusivas desde el diseño hasta la implementación</em></p>
+<p><strong>13/06/24 (Mañana) -</strong> <em>RiD: Responsive Inclusive Design</em></p>
+<p><strong>13/06/24 (Tarde) -</strong> <em>Tiflotecnología para la independencia: IA y dispositivos accesibles basados en datos</em></p>
+<p><strong>24/06/24 (Tarde) -</strong> <em>DACTYLS: IA en el desarrollo inclusivo dactilológico para entornos de aprendizaje</em></p>
+<p><strong>25/06/24 (Tarde) -</strong> <em>Braitico para la era digital: Enseñanza inclusiva del Braille con IA y gestión de datos</em></p>
+<p><strong>27/06/24 (Tarde) -</strong> <em>RiD: IA y datos en el Diseño Inclusivo Adaptativo para mejorar la experiencia del usuario con discapacidad visual</em></p>
+<p><strong>02/09/24 (Mañana) -</strong> <em>De la ciencia a la Tiflotecnología: Innovaciones en accesibilidad tecnológica para la inclusión</em></p>
+<p><strong>03/09/24 (Mañana) -</strong> <em>De la ciencia a la Tiflotecnología: Herramientas inclusivas para la educación accesible</em></p>
+<p><strong>04/09/24 (Tarde) -</strong> <em>Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual en el entorno digital</em></p>
+<p><strong>05/09/24 (Tarde) -</strong> <em>Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual en el ámbito laboral</em></p>
+<p><strong>09/09/24 (Mañana) -</strong> <em>Diseños inclusivos responsables: Estrategias para una accesibilidad universal</em></p>
+<p><strong>09/09/24 (Tarde) -</strong> <em>Diseños inclusivos y accesibles: Integración de IA y datos en la educación inclusiva</em></p>
+<p><strong>10/09/24 (Mañana) -</strong> <em>Accesibilidad y diseño en la tiflotecnología: Retos y oportunidades</em></p>
+<p><strong>10/09/24 (Tarde) -</strong> <em>De la ciencia a la inclusión: Tiflotecnología impulsada por IA y datos en la innovación educativa</em></p>
+<p><strong>11/09/24 (Mañana) -</strong> <em>La inclusión desde el diseño de hardware accesible para personas con discapacidad visual</em></p>
+<p><strong>11/09/24 (Tarde) -</strong> <em>IA y accesibilidad laboral: Cómo los datos mejoran la inclusión de personas con discapacidad visual</em></p>
+<p><strong>12/09/24 (Mañana) -</strong> <em>Tiflodesarrollo: Aplicaciones tecnológicas avanzadas para la inclusión educativa</em></p>
+<p><strong>12/09/24 (Tarde) -</strong> <em>Accesibilidad inteligente: Diseño de soluciones tecnológicas centradas en IA y datos</em></p>
+<p><strong>16/09/24 (Mañana) -</strong> <em>DACTYLS Plus: Nuevas funciones para un aprendizaje dactilológico inclusivo</em></p>
+<p><strong>16/09/24 (Tarde) -</strong> <em>Tiflotecnología emergente: IA y datos para una accesibilidad digital avanzada</em></p>
+<p><strong>17/09/24 (Mañana) -</strong> <em>Braitico Avanzado: Metodologías innovadoras para la enseñanza del Braille en la era digital</em></p>
+<p><strong>17/09/24 (Tarde) -</strong> <em>Software inclusivo: El futuro del diseño accesible con IA y análisis de datos</em></p>
+<p><strong>18/09/24 (Mañana) -</strong> <em>Tecnología Inclusiva y el Futuro: Inteligencia Artificial centrada en la accesibilidad social</em></p>
+<p><strong>18/09/24 (Tarde) -</strong> <em>Innovación accesible: IA y datos para mejorar la vida de personas con discapacidad visual</em></p>
+<p><strong>19/09/24 (Tarde) -</strong> <em>RiD: IA y Diseño Inclusivo Adaptativo para mejorar la interacción digital accesible</em></p>
+<p><strong>19/09/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para la Educación y la Tecnología</em></p>
+<p><strong>23/09/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para la Accesibilidad en Espacios Públicos</em></p>
+<p><strong>24/09/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para Aplicaciones Móviles Accesibles</em></p>
+<p><strong>25/09/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para la Experiencia del Usuario Accesible</em></p>
+<p><strong>26/09/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo en el Entorno de Trabajo</em></p>
+<p><strong>30/09/24 (Tarde) -</strong> <em>Tiflotecnología y Realidad Aumentada: Herramientas inclusivas para la movilidad urbana</em></p>
+<p><strong>01/10/24 (Tarde) -</strong> <em>DACTYLS: Evolución y futuro del aprendizaje inclusivo de la lengua de signos para la discapacidad visual</em></p>
+<p><strong>02/10/24 (Tarde) -</strong> <em>Tecnología accesible para el desarrollo de la autonomía personal en personas con discapacidad visual</em></p>
+<p><strong>03/10/24 (Tarde) -</strong> <em>Braitico Avanzado: Nuevas estrategias educativas en la enseñanza del Braille en el aula inclusiva</em></p>
+<p><strong>04/10/24 (Tarde) -</strong> <em>De la ciencia a la Tiflotecnología: Innovaciones en accesibilidad tecnológica para la inclusión</em></p>
+<p><strong>07/10/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para Aplicaciones Móviles Accesibles</em></p>
+<p><strong>08/10/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo en el Entorno de Trabajo</em></p>
+<p><strong>09/10/24 (Tarde) -</strong> <em>RiD: Diseño Inclusivo Adaptativo para la Educación y la Tecnología</em></p></div>
             </div>
         </div>
 
@@ -205,19 +206,20 @@
             <hr>
             <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
+        <script src="../js/bootstrap.bundle.min.js"></script>
         <script>
             var base_url = "..",
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
-        <script src="../js/base.js" defer></script>
-        <script src="../search/main.js" defer></script>
+        <script src="../js/base.js"></script>
+        <script src="../search/main.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title" id="searchModalLabel">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <p>From here you can search these documents. Enter your search terms below.</p>
@@ -237,7 +239,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
               <table class="table">
