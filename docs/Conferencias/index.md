@@ -1,4 +1,4 @@
-# Conferencias
+# Conferencias (new)
 
 Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra Extraordinaria ONCE-Tiflotecnología que tuvo su inicio en febrero de 2020 y renovada en los años 2022 y 2024, donde se contemplan tanto actuaciones de formación como de difusión del conocimiento. 
 

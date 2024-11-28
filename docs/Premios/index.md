@@ -1,4 +1,4 @@
-# Propuesta resolución premios Cátedra ONCE-Tiflotecnología 2023-24
+# Propuesta resolución premios Cátedra ONCE-Tiflotecnología 2023-24 (new)
 
 Convocatoria III edición de los Premios a los mejores Trabajos de Fin de Grado y Trabajos de Fin de Máster accesibles e inclusivos de la Cátedra ONCE-Tiflotecnología (BOUC 18 DE JUNIO DE 2024)
 
