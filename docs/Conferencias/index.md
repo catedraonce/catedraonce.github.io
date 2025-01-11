@@ -2,6 +2,18 @@
 
 Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra Extraordinaria ONCE-Tiflotecnología que tuvo su inicio en febrero de 2020 y renovada en los años 2022 y 2024, donde se contemplan tanto actuaciones de formación como de difusión del conocimiento. 
 
+
+**Conferencias 2025**
+
+**15/01/25 (9-11h Grupo 5ºA) -** *Sensibilización mediante juegos y materiales 3D y de Tiflotecnología para personas con baja visión* Colegio CEIP Las Acacias.
+
+**15/01/25 (11-13h Grupo 5ºB) -** *Sensibilización mediante juegos y materiales 3D y de Tiflotecnología para personas con baja visión* Colegio CEIP Las Acacias.
+
+**15/01/25 (14-15h Grupo 5ºC) -** *Sensibilización mediante juegos y materiales 3D y de Tiflotecnología para personas con baja visión* Colegio CEIP Las Acacias.
+
+
+**Conferencias 2024**
+
 Las conferencias serán en horario de mañana a las 10h o en horario de tarde a las 19h en el enlace *meet*:  [meet.google.com/awm-vayj-mpd](http://meet.google.com/awm-vayj-mpd).
 										
 
