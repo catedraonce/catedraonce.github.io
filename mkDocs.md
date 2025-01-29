@@ -15,6 +15,7 @@ el archivo mkdocs.yml tiene el arbol de navegación, solo tocar nav: para modifi
 4. Si todo ha ido bien y es de vuestro gusto, abrir un nuevo terminal y meterme en cd catedraonce.github.io. Hacer git status: muestra ficheros modificados
 
 hacer git commit -a -m "Mensaje del motivo del cambio"
+ 
 hacer git push para que los cambios se vayan al repo
 
 5. Renderizar el contenido y subirlo a Github Pages utilizando en el terminal:
