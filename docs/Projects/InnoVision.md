@@ -1,3 +1,5 @@
+![IrisEmpower Logo](logoInnovision.png)
+
 # Proyecto InnoVision
 
 - **Título**: Sistema IoT innovador orientado a la inclusión y mejora de la autonomía de personas con discapacidad visual.
