@@ -11,6 +11,8 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 
 **15/01/25 (14-15h Grupo 5ºC) -** *Sensibilización mediante juegos y materiales 3D y de Tiflotecnología para personas con baja visión* Colegio CEIP Las Acacias.
 
+**06/03/25 (15:30-17:30h) -** *Herramientas de IA inclusivas y accesibles aplicadas a lo largo de un proyecto de investigación* Instituto IES Guadarrama.
+
 
 **Conferencias 2024**
 
