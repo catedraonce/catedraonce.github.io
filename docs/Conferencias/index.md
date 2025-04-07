@@ -197,4 +197,4 @@ Las conferencias serán en horario de mañana a las 10h o en horario de tarde a 
 
 **09/10/24 (Tarde) -** *RiD: Diseño Inclusivo Adaptativo para la Educación y la Tecnología*
 
- 
+ **03/04/25 (Mañana) -** Taller Mundos Ocultos: Tiflodidáctica aplicada a la enseñanza de microorganismos acuáticos
