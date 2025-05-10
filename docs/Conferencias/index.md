@@ -13,6 +13,7 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 
 **06/03/25 (15:30-17:30h) -** *Herramientas de IA inclusivas y accesibles aplicadas a lo largo de un proyecto de investigación* Instituto IES Guadarrama.
 
+**03/04/25 (Mañana) -** *Taller Mundos Ocultos: Tiflodidáctica aplicada a la enseñanza de microorganismos acuáticos*
 
 **Conferencias 2024**
 
