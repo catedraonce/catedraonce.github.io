@@ -19,6 +19,28 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 
 **13/06/25 (15h) -** *Tecnologías accesibles e inclusivas en España* en el Congreso *Más allá del protocolo: Salud sin barreras* celebrado en la Universidad Europea de Madrid
 
+**Fundación "Para que Veas" ciclo de conferencias online centrado en la accesibilidad, la inclusión y el uso de tecnologías adaptadas para personas con discapacidad visual en el ámbito educativo y científico, en el enlace *meet*:  [meet.google.com/awm-vayj-mpd](http://meet.google.com/awm-vayj-mpd)**
+
+**03/03/25 -** *Sensivisual: Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual al proceso de Enseñanza-Aprendizaje* 
+
+**14/03/25 -** *Tiflotecnología: dispositivos tecnológicos como ayuda a integración de las personas ciegas o con otra discapacidad* 
+
+**20/03/25 -** *DACTYLS: diseño de aplicaciones en IoS y Android inclusivas y accesibles* 
+
+**31/03/25 -** *Edico: editor científico inclusivo para personas con discapacidad visual (1)*
+ 
+**08/04/25 -** * Edico: editor científico inclusivo para personas con discapacidad visual (2)*
+
+**22/04/25 -** *Edico: editor científico inclusivo para personas con discapacidad visual (3)*
+
+**28/04/25 -** *Herramientas tiflotecnológicas para mejorar la accesibilidad de personas con discapacidad visual*
+
+**05/05/25 -** *Innovisión: proyecto interdisciplinar para mejorar la calidad de vida de las personas con baja visión*
+
+**12/05/25 -** *Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual al proceso de Enseñanza- Aprendizaje (1)*
+
+**26/05/25 -** *Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual al proceso de Enseñanza- Aprendizaje (2)* 
+ 
 **Conferencias 2024**
 
 Las conferencias serán en horario de mañana a las 10h o en horario de tarde a las 19h en el enlace *meet*:  [meet.google.com/awm-vayj-mpd](http://meet.google.com/awm-vayj-mpd).
