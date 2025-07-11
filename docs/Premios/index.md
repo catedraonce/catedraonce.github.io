@@ -1,4 +1,37 @@
-# Propuesta resolución premios Cátedra ONCE-Tiflotecnología 2023-24 (new)
+# Premios Cátedra UCM ONCE-Tiflotecnología 
+
+
+
+## Premios de la Cátedra a TFGs y TFMs 2022/23
+
+Convocatoria de la **IV Edición de los Premios ONCE-UCM a los mejores trabajos de fin de Grado y Máster** ([Cartel](Convocatoria 2025_Premios_TFGyTFM.pdf)) que trabajen la accesibilidad y la inclusión en cualquier área de conocimiento para el Curso 2025-26 abiertos a **todas las disciplinas y áreas de conocimiento** dentro de la UCM, siempre y cuando tengan la **accesibilidad e inclusión** como eje central. 
+
+|                | **Premios TFGs:** |                |
+| :------------- | :---------------- | :------------- |
+| 1º Premio 500€ | 2º Premio 200€    | 3º Premio 100€ |
+|                | **Premios TFMs:** |                |
+| 1º Premio 500€ | 2º Premio 200€    | 3º Premio 100€ |
+
+**Las propuestas presentadas deben incluir:**
+
+* **Nombre, apellidos, nº de DNI, correo electrónico y teléfono** de los estudiantes que se presentan al concurso
+
+* **Formulario de conformidad ([link](conformes-1.docx))** firmado con el **consentimiento** de los directores y todos los integrantes del grupo que desarrolla el TFG o TFM a la presentación de la propuesta.
+
+* Una **memoria** con una **extensión** máxima de **5 páginas** donde se incluya:
+
+​	1.- **Resumen** del TFG o TFM, con Nombre, Apellidos, Correo electrónico, Teléfono. 
+
+​	2.- **Justificación** de la relación del TFG o TFM con la **accesibilidad e inclusión**, resaltando aquellos aspectos que le atribuyen mayor originalidad.
+
+​	3.- **Valor que aporta la idea o solución**, indicando las necesidades que desea satisfacer y los problemas que pretende resolver.
+
+Tanto el documento de consentimiento como la memoria deberán entregarse en formato pdf.
+Las propuestas se enviarán por correo electrónico a **[catedraonce@ucm.es](mailto:catedraonce@ucm.es)** hasta el **26 de septiembre de 2025**. Además de la documentación, los participantes habrán de realizar una presentación pública de la propuesta.
+
+
+
+## Premios de la Cátedra a TFGs y TFMs 2023-24
 
 Convocatoria III edición de los Premios a los mejores Trabajos de Fin de Grado y Trabajos de Fin de Máster accesibles e inclusivos de la Cátedra ONCE-Tiflotecnología (BOUC 18 DE JUNIO DE 2024)
 
