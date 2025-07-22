@@ -1,13 +1,14 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div>
-        <h1 style="margin: 0;">Cátedra ONCE-Tiflotecnología</h1>
-        <h2 style="margin: 0;">UCM - Facultad de Informática</h2>
-    </div>
-    <div>
-        <img src="LogoCatedra.jpg" alt="Logo de la Cátedra ONCE-Tiflotecnología" width="180">
-        <img src="escudoFdIvectorizadoColorLimpio.svg" alt="Logo de la FDI" width="130">
-    </div>
-</div>
+
+
+<p float="left">
+  <img src="escudoFdIvectorizadoColorLimpio.svg" height="150" />
+  <img align="right" src="Catedra-ONCE.svg" height="150" /> 
+</p>
+
+# Cátedra ONCE-Tiflotecnología
+
+## UCM - Facultad de Informática
+
 ## Introducción
 
 La **Cátedra ONCE-Tiflotecnología** nace con el claro objetivo de incluir a las personas ciegas o con otras discapacidades en el mundo tecnológico actual. La colaboración entre la **ONCE** y la **Universidad Complutense de Madrid (UCM)** permite la concepción, investigación y desarrollo de productos y tecnologías basadas en el **Diseño para todos**, asegurando la igualdad de oportunidades en la era digital mediante la innovación.
