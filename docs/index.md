@@ -1,9 +1,10 @@
 
 
 <p float="left">
-  <img src="escudoFdIvectorizadoColorLimpio.svg" height="150" />
+  <img src="escudoUCM.svg" height="150" />
   <img align="right" src="Catedra-ONCE.svg" height="150" /> 
 </p>
+
 
 # Cátedra ONCE-Tiflotecnología
 
