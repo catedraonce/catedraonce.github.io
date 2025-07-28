@@ -1,7 +1,7 @@
 
 
 <p float="left">
-  <img src="escudo_UCM.svg" height="150" />
+  <img src="EscudoUCM.svg" height="150" />
   <img align="right" src="Catedra-ONCE.svg" height="150" /> 
 </p>
 
