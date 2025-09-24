@@ -27,7 +27,7 @@ Convocatoria de la **IV Edición de los Premios ONCE-UCM a los mejores trabajos 
 ​	3.- **Valor que aporta la idea o solución**, indicando las necesidades que desea satisfacer y los problemas que pretende resolver.
 
 Tanto el documento de consentimiento como la memoria deberán entregarse en formato pdf.
-Las propuestas se enviarán por correo electrónico a **[catedraonce@ucm.es](mailto:catedraonce@ucm.es)** hasta el **26 de septiembre de 2025**. Además de la documentación, los participantes habrán de realizar una presentación pública de la propuesta.
+Las propuestas se enviarán por correo electrónico a **[catedraonce@ucm.es](mailto:catedraonce@ucm.es)** hasta el **5 de octubre de 2025**. Además de la documentación, los participantes habrán de realizar una presentación pública de la propuesta.
 
 
 
