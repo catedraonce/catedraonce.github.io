@@ -5,6 +5,14 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 
 **Conferencias 2025**
 
+**22/10/25 (13-14h) -** *Tecnología y accesibilidad: propuestas para mejorar la calidad de vida de las personas con diversidad visual* I Congreso Internacional de Ética y Traducción UCM.
+
+**22/10/25 (12-13h) -** *Propuestas accesibles basadas en la tecnología: innovación para la adaptación de las personas con diversidad visual* I Congreso Internacional de Ética y Traducción UCM.
+
+**23/10/25 (9-10h) -** *Diseño de tecnologías accesibles: un enfoque multidisciplinar* I Congreso Internacional de Ética y Traducción UCM.
+
+**24/10/25 (9-10h) -** *Cátedra ONCE-Tiflotecnología: proyectos accesibles basados en tecnologías* I Congreso Internacional de Ética y Traducción UCM.
+
 **15/01/25 (9-11h Grupo 5ºA) -** *Sensibilización mediante juegos y materiales 3D y de Tiflotecnología para personas con baja visión* Colegio CEIP Las Acacias.
 
 **15/01/25 (11-13h Grupo 5ºB) -** *Sensibilización mediante juegos y materiales 3D y de Tiflotecnología para personas con baja visión* Colegio CEIP Las Acacias.
