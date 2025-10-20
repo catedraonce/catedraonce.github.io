@@ -1,35 +1,36 @@
 # Premios Cátedra UCM ONCE-Tiflotecnología 
 
-
-
 ## Premios de la Cátedra a TFGs y TFMs 2024/25
 
 Convocatoria de la **IV Edición de los Premios ONCE-UCM a los mejores trabajos de fin de Grado y Máster** ([Cartel](Convocatoria 2025_Premios_TFGyTFM.pdf)) que trabajen la accesibilidad y la inclusión en cualquier área de conocimiento para el Curso 2024-25 abiertos a **todas las disciplinas y áreas de conocimiento** dentro de la UCM, siempre y cuando tengan la **accesibilidad e inclusión** como eje central. 
 
-|                | **Premios TFGs:** |                |
-| :------------- | :---------------- | :------------- |
-| 1º Premio 550€ | 2º Premio 300€    | 3º Premio 150€ |
-|                | **Premios TFMs:** |                |
-| 1º Premio 550€ | 2º Premio 300€    | 3º Premio 150€ |
+**El Jurado** designado para la evaluación de los premios de la Cátedra ONCE-Tiflotecnología a los mejores Trabajos de Fin de Grado y Máster formada por: 
 
-**Las propuestas presentadas deben incluir:**
+* María Guijarro Mata-García: Directora de la Cátedra ONCE-Tiflotecnología de la Facultad de Informática de la UCM, como Presidenta.
+* Mª Carmen Millán Vera, Directora Ejecutiva del área de Autonomía Personal, Accesibilidad, Tecnología e Innovación y del Centro de Tiflotecnología e Innovación (CTI)
+* José María Ortiz Silva, Jefe del Departamento de Consultoría e Innovación
+* Joaquín Recas Piorno, profesor de la Facultad de Informática (Dep. ACYA)
+* Guillermo Botella Juan, profesor de la Facultad de Informática (Dep. ACYA)
 
-* **Nombre, apellidos, nº de DNI, correo electrónico y teléfono** de los estudiantes que se presentan al concurso
+**Ha decidido proponer los siguientes premios** a los mejores Trabajos de Fin de Grado y Máster en la convocatoria del curso 2024-25, con la relación de beneficiarios y la cuantía individualizada a conceder, conforme al acta de evaluación elaborada. 
 
-* **Formulario de conformidad ([link](conformes-1.docx))** firmado con el **consentimiento** de los directores y todos los integrantes del grupo que desarrolla el TFG o TFM a la presentación de la propuesta.
+**El acto de entrega de estos premios será el jueves 17 de noviembre a las 18:00h en la Sala de Grados de la Facultad de Informática de la UCM**.
 
-* Una **memoria** con una **extensión** máxima de **5 páginas** donde se incluya:
+### Trabajos de Fin de Master
 
-​	1.- **Resumen** del TFG o TFM, con Nombre, Apellidos, Correo electrónico, Teléfono. 
+| nº   | Alumno/s                | Facultad               | Título del TFG                                               | Premio |
+| ---- | ----------------------- | ---------------------- | ------------------------------------------------------------ | ------ |
+| 1º   | Aitana Díaz Simancas    | Facultad de Psicología | Las Necesidades de las Personas con Discapacidad Visual en el Ámbito Sanitario: una Revisión Sistemática y una Propuesta de Intervención | 550€   |
+| 2º   | Marta Cordero Martínez  | Facultad de Enfermería | Experiencias y riesgos de las familias con niños con enfermedades crónicas complejas y dependientes de tecnología | 300€   |
+| 3º   | Daniel Fernández Arenas | Facultad de Filología  | Aplicación del conocimiento lingüístico en estrategias de *prompting* para simplificación textual en español | 150€   |
 
-​	2.- **Justificación** de la relación del TFG o TFM con la **accesibilidad e inclusión**, resaltando aquellos aspectos que le atribuyen mayor originalidad.
+### Trabajos de Fin de Grado
 
-​	3.- **Valor que aporta la idea o solución**, indicando las necesidades que desea satisfacer y los problemas que pretende resolver.
-
-Tanto el documento de consentimiento como la memoria deberán entregarse en formato pdf.
-Las propuestas se enviarán por correo electrónico a **[catedraonce@ucm.es](mailto:catedraonce@ucm.es)** hasta el **5 de octubre de 2025**. Además de la documentación, los participantes habrán de realizar una presentación pública de la propuesta.
-
-
+|      | Alumno/s                                         | Facultad                        | Título del TFM                                               | Premio |
+| ---- | ------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | ------ |
+| 1º   | Ismael Abad Salas                                | Facultad de Trabajo Social      | Emprendimiento social en el ámbito del trabajo               | 550€   |
+| 2º   | Eva Robles Haloui                                | Facultad de Bellas Artes        | Diseño sostenible e integral de estrategia de comunicación visual | 300€   |
+| 3º   | Laura Sánchez Alamillos y Marina Medina Galdeano | Facultad de Óptica y Optometría | Uso de la realidad virtual para el estudio del campo visual  | 150€   |
 
 ## Premios de la Cátedra a TFGs y TFMs 2023-24
 
