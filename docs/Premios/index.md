@@ -14,7 +14,7 @@ Convocatoria de la **IV Edición de los Premios ONCE-UCM a los mejores trabajos 
 
 **Ha decidido proponer los siguientes premios** a los mejores Trabajos de Fin de Grado y Máster en la convocatoria del curso 2024-25, con la relación de beneficiarios y la cuantía individualizada a conceder, conforme al acta de evaluación elaborada. 
 
-**El acto de entrega de estos premios será el jueves 17 de noviembre a las 18:00h en la Sala de Grados de la Facultad de Informática de la UCM**.
+**El acto de entrega de estos premios será el lunes 17 de noviembre a las 18:00h en la Sala de Grados de la Facultad de Informática de la UCM**.
 
 ### Trabajos de Fin de Master
 
