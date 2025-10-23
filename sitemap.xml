@@ -2,77 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://catedraonce.github.io/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://catedraonce.github.io/index%20copy/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Conferencias/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
+    </url>
+    <url>
+         <loc>https://catedraonce.github.io/Congresos/</loc>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Contact/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Empleo/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
+    </url>
+    <url>
+         <loc>https://catedraonce.github.io/Formacion/Formacion/</loc>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/General/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/News/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Premios/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
-         <loc>https://catedraonce.github.io/Premios/index_old1/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://catedraonce.github.io/Premios/index_old2/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://catedraonce.github.io/Projects/Dactyls/</loc>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Projects/InnoVision/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
+    </url>
+    <url>
+         <loc>https://catedraonce.github.io/Projects/IrisEmp/</loc>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Subjects/Modulo1/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Subjects/Modulo2/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Subjects/Modulo3/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
     <url>
          <loc>https://catedraonce.github.io/Subjects/Modulo4/</loc>
-         <lastmod>2025-10-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-10-23</lastmod>
     </url>
 </urlset>
