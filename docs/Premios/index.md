@@ -18,7 +18,7 @@ Convocatoria de la **IV Edición de los Premios ONCE-UCM a los mejores trabajos 
 
 ### Trabajos de Fin de Master
 
-| nº   | Alumno/s                | Facultad               | Título del TFG                                               | Premio |
+| nº   | Alumno/s                | Facultad               | Título                                                       | Premio |
 | ---- | ----------------------- | ---------------------- | ------------------------------------------------------------ | ------ |
 | 1º   | Aitana Díaz Simancas    | Facultad de Psicología | Las Necesidades de las Personas con Discapacidad Visual en el Ámbito Sanitario: una Revisión Sistemática y una Propuesta de Intervención | 550€   |
 | 2º   | Marta Cordero Martínez  | Facultad de Enfermería | Experiencias y riesgos de las familias con niños con enfermedades crónicas complejas y dependientes de tecnología | 300€   |
@@ -26,7 +26,7 @@ Convocatoria de la **IV Edición de los Premios ONCE-UCM a los mejores trabajos 
 
 ### Trabajos de Fin de Grado
 
-|      | Alumno/s                                         | Facultad                        | Título del TFM                                               | Premio |
+|      | Alumno/s                                         | Facultad                        | Título                                                       | Premio |
 | ---- | ------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | ------ |
 | 1º   | Ismael Abad Salas                                | Facultad de Trabajo Social      | Emprendimiento social en el ámbito del trabajo               | 550€   |
 | 2º   | Eva Robles Haloui                                | Facultad de Bellas Artes        | Diseño sostenible e integral de estrategia de comunicación visual | 300€   |
