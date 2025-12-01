@@ -5,6 +5,16 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 
 **Conferencias 2025**
 
+**04/12/25 (16-17h) -** *Inteligencia Artificial como promotora de la inclusión y accesibilidad de la tecnología* Conferencia al VI Foro Internacional de Inclusión Social y Productiva de Personas con Discapacidad de la ONCE con Asociaciones colombianas de baja visión
+
+**03/12/25 (09-11h) -** *Sensibilización mediante el juego y materiales 3D y de Tiflotecnología para personas con baja visión* Ciclo de conferencias a 3º de Educación Primaria del Colegio Sierra de Guadarrama.
+
+**03/12/25 (11-13h) -** *Sensibilización mediante el juego y materiales 3D y de Tiflotecnología para personas con baja visión* Ciclo de conferencias a 4º de Educación Primaria del Colegio Sierra de Guadarrama.
+
+**03/12/25 (13-15h) -** *Sensibilización mediante el juego y materiales 3D y de Tiflotecnología para personas con baja visión* Ciclo de conferencias a 5º de Educación Primaria del Colegio Sierra de Guadarrama.
+
+**01/12/25 (17-20h) -** *Inteligencia Artificial como promotora de la inclusión y accesibilidad de la tecnología* Ciclo Conferencias Universidad Antonio Nariño, Colombia. Online (https://meet.google.com/vij-ownb-awx)
+
 **22/10/25 (13-14h) -** *Tecnología y accesibilidad: propuestas para mejorar la calidad de vida de las personas con diversidad visual* I Congreso Internacional de Ética y Traducción UCM.
 
 **22/10/25 (12-13h) -** *Propuestas accesibles basadas en la tecnología: innovación para la adaptación de las personas con diversidad visual* I Congreso Internacional de Ética y Traducción UCM.
