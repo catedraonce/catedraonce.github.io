@@ -16,9 +16,9 @@ Consequently, our Team (UCM & PLUSINDES), during this 3 years is going to carry 
 ## Artículos publicados
 
 * Juan Bayón, Joaquín Recas, María Guijarro. *"An optimized, color-adaptive blue light filtering approach using a novel color space transformation"*. Displays 2025, Vol. 90. DOI: [j.displa.2025.103124](https://doi.org/10.1016/j.displa.2025.103124).
-* Jiménez, J.J.; Bayón, J.; Guijarro, M.; Bernárdez-Vilaboa, R.; Cámara, R.; Recas, J. "*Retiplus: Augmented Reality Rehabilitation System to Enhance Autonomy and Quality of Life in Individuals with Low Vision*". *Electronics* 2025, *14*, 3589. https://doi.org/10.3390/electronics14183589
+* Jiménez, J.J.; Bayón, J.; Guijarro, M.; Bernárdez-Vilaboa, R.; Cámara, R.; Recas, J. "*Retiplus: Augmented Reality Rehabilitation System to Enhance Autonomy and Quality of Life in Individuals with Low Vision*". *Electronics* 2025, *14*, 3589. [10.3390/electronics14183589](https://doi.org/10.3390/electronics14183589)
 
-* Peng, H.; Bayon, J.; Recas, J.; Guijarro, M. "*Efficient Expiration Date Recognition in Food Packages for Mobile Applications*". Algorithms 2025, *18*, 286. https://doi.org/10.3390/a18050286
+* Peng, H.; Bayon, J.; Recas, J.; Guijarro, M. "*Efficient Expiration Date Recognition in Food Packages for Mobile Applications*". Algorithms 2025, *18*, 286. [10.3390/a18050286](https://doi.org/10.3390/a18050286)
 
 * Guijarro, M.; Bayon, J.; Martín-Carabias, D.; Recas, J. A "*Multi-Stage Method for Logo Detection in Scanned Official Documents Based on Image Processing"*. Algorithms 2024, 17, 170. DOI: [10.3390/a17040170](https://doi.org/10.3390/a17040170)
 
@@ -28,7 +28,7 @@ Consequently, our Team (UCM & PLUSINDES), during this 3 years is going to carry 
 
 ## Congresos
 
-* Peng, H., Bayón, J., Recas, J., Guijarro, M. (2025). "*Lightweight Neural Networks for Expiration Date Accessibility*". In: Huang, DS., Li, B., Chen, H., Zhang, C. (eds) Advanced Intelligent Computing Technology and Applications. ICIC 2025. Communications in Computer and Information Science, vol 2564. Springer, Singapore. https://doi.org/10.1007/978-981-96-9911-7_27
+* Peng, H., Bayón, J., Recas, J., Guijarro, M. (2025). "*Lightweight Neural Networks for Expiration Date Accessibility*". In: Huang, DS., Li, B., Chen, H., Zhang, C. (eds) Advanced Intelligent Computing Technology and Applications. ICIC 2025. Communications in Computer and Information Science, vol 2564. Springer, Singapore. [10.1007/978-981-96-9911-7_27](https://doi.org/10.1007/978-981-96-9911-7_27)
 * Juan Bayón Fernández, Joaquín Recas Piorno, Jonathan José Jiménez Jiménez, María Guijarro Mata-García. "*Filtrado de luz azul con mínima distorsión para vídeo*". XLV Jornadas de Automática, organizado por el Comité Español de Automática (CEA). Lugar de celebración Málaga, días 4, 5 y 6 de septiembre de 2024. DOI: [10.17979/ja-cea.2024.45.10771](https://doi.org/10.17979/ja-cea.2024.45.10771)
 * Juan Bayón Fernández, Joaquín Recas Piorno, Jonathan José Jiménez Jiménez, María Guijarro Mata-García. *"Blue Light Digital Filter with accurate color representation, contrast and quality"*. Computer Graphics International (CGI) congress 2024 Geneva (to be published in LNCS, Srpinger). Regular Paper. Track number: 112. Link: [Conference Program](https://www.cgs-network.org/cgi24/program/)
 * González Montero, G.;Guijarro Mata-García, M.; Recas Piorno, J.; Gutiérrez Hernández, A.; Sánchez Pérez, I. *"InnoVisión: projecto interdisciplinar para melhorar a qualidade de vida de pessoas com baixa visão”*.  XXV Congresso Internacional De Optometria E Contactologia (XXV CIOC’23), organizado por la União Profissional Dos Ópticos E Optometristas Portugueses. Fecha: 24, 25 e 26 de marzo de 2023. Ponencia Invitada.
