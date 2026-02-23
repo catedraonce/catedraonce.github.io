@@ -2,6 +2,14 @@
 
 Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra Extraordinaria ONCE-Tiflotecnología que tuvo su inicio en febrero de 2020 y renovada en los años 2022 y 2024, donde se contemplan tanto actuaciones de formación como de difusión del conocimiento. 
 
+**Conferencias 2026**
+
+**24/02/26 (10h) -** *Semana de la Ciencia y la Niña: Vocaciones STEM y tecnologías inclusivas* Ciclo de conferencia a estudiantes de 4º ESO Instituto Gerardo Diego, Pozuelo de Alarcón
+
+
+**11/03/26 (11h) -** *Herramientas de IA inclusivas para investigación* Desafíos de la Inteligencia Artificial para los investigadores. Facultad de Ciencias Políticas y Sociología, UCM. 
+
+**14/05/26 (10:45h) -** *"IA Generativa: Herramientas inclusivas para la redacción de manuscritos y propuestas científicas* Aplicación de la IA Generativa en la Investigación. Facultad de Odontología UCM.
 
 **Conferencias 2025**
 
