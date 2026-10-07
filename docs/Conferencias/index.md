@@ -27,7 +27,7 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 | 11/09/2026 | Software portátil para diagnóstico visual: integración clínica y educativa   | Híbrida (Presencial/Online) | 19:00h | https://meet.google.com/ant-kube-xod |
 | 18/09/2026 | Accesibilidad visual en personas con discapacidad intelectual: retos y soluciones   | Híbrida (Presencial/Online) | 19:00h | https://meet.google.com/ant-kube-xod |
 
-<!-- 
+
 ## Ciclo de Conferencias 2 Fundación Para que Veas
 
 | Fecha | Conferencia / Tema | Modalidad | Hora | Enlace de Acceso | 
@@ -36,6 +36,7 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 | 25/09/2026 | TTecnología de apoyo para la evaluación de agudeza visual en contextos de exclusión (Conf. 2) | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 02/10/2026 | Experiencias de usuario: tecnología visual asistiva en centros educativos | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 06/10/2026 | Validación de software portátil para evaluación visual en poblaciones vulnerables | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
+<!--
 | 07/10/2026 | Innovisión: proyecto interdisciplinar para mejorar la calidad de vida... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 08/10/2026 | Sensivisual: Sensibilización y formación en la accesibilidad e inclusión... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 13/10/2026 | Interfaces amigables para evaluación visual: diseño inclusivo... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod |
@@ -56,11 +57,17 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 
 **14/05/26 (10:45h) -** *"IA Generativa: Herramientas inclusivas para la redacción de manuscritos y propuestas científicas* Aplicación de la IA Generativa en la Investigación. Facultad de Odontología UCM.
 
-**02/10/26 (11h-13:30h) -** *Inteligencia Artificial inclusiva aplicada a la investigación * Charla CESEDEN. Paseo Castellana 61, Madrid.
+**02/10/26 (10h-11h) -** *Inteligencia Artificial, IA Generativa y herramientas inclusivas: Sesión 1 · De la IA a la IA generativa: qué es y cómo funciona* Charla CESEDEN. Paseo Castellana 61, Madrid.
+
+**02/10/26 (11h-12h) -** *Inteligencia Artificial, IA Generativa y herramientas inclusivas: Sesión 2 · Herramientas, riesgos y buenas prácticas (también en tu TFM)* Charla CESEDEN. Paseo Castellana 61, Madrid.
 
 **12/10/26 (14h-16h) -** *Inteligencia Artificial accesible e inclusiva para la escritura de TFG y TFM* Master de Diseño interactiva - Escuela de Diseño - UPM
 
+**28/10/26 (12h-14h) -** *Inteligencia Artificial accesible e inclusiva* conferencias AutosinergIA en Universidad Senior, Escola Politécnica de Enxeñaría de Ferrol, A Coruña. 
+
 **03/11/26 (15:30h-17:30h) -** *Inteligencia Artificial accesible e inclusiva para la escritura de TFG y TFM* Master de Diseño interactiva - Escuela de Diseño - UPM
+
+**12/11/26 (15:30h-17:30h) -** *Inteligencia Artificial accesible e inclusiva para Formación Profesional* IES Luis Vela, Leganés.
 
 ## Ciclo de Conferencias Facultad de Informática
 
