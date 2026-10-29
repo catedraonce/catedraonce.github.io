@@ -36,18 +36,22 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 | 25/09/2026 | TTecnología de apoyo para la evaluación de agudeza visual en contextos de exclusión (Conf. 2) | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 02/10/2026 | Experiencias de usuario: tecnología visual asistiva en centros educativos | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 06/10/2026 | Validación de software portátil para evaluación visual en poblaciones vulnerables | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
-<!--
-| 07/10/2026 | Innovisión: proyecto interdisciplinar para mejorar la calidad de vida... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
-| 08/10/2026 | Sensivisual: Sensibilización y formación en la accesibilidad e inclusión... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
+| 07/10/2026 | Innovisión: proyecto interdisciplinar para mejorar la calidad de vida de las personas con baja visión | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
+| 08/10/2026 | Sensivisual: Sensibilización y formación en la accesibilidad e inclusión de las personas con discapacidad visual al proceso de Enseñanza-Aprendizaje | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 13/10/2026 | Interfaces amigables para evaluación visual: diseño inclusivo... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod |
 | 14/10/2026 | Integración de dispositivos móviles en programas de evaluación visual adaptada | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
-| 15/10/2026 | Futuro de la evaluación visual: inteligencia artificial y adaptabilidad... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
-| 20/10/2026 | Tiflotecnología: dispositivos tecnológicos como ayuda a integración... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
+| 15/10/2026 | Futuro de la evaluación visual: inteligencia artificial y adaptabilidad a discapacidades múltiples | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
+| 20/10/2026 | Tiflotecnología: dispositivos tecnológicos como ayuda a integración de las personas ciegas o con otra discapacidad | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 21/10/2026 | Edico: editor científico inclusivo para personas con discapacidad visual | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 22/10/2026 | DACTYLS: diseño de aplicaciones en iOS y Android inclusivas y accesibles | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod |
+| 19/10/2026 | Vibe Code Accesible: Sesión 1 | Híbrida | 18:00h | https://meet.google.com/zss-bhag-qqm | 
+| 20/10/2026 | Vibe Code Accesible: Sesión 2 | Híbrida | 18:00h | https://meet.google.com/zss-bhag-qqm | 
+| 21/10/2026 | Vibe Code Accesible: Sesión 3 | Híbrida | 18:00h | https://meet.google.com/zss-bhag-qqm |
+| 22/10/2026 | Vibe Code Accesible: Sesión 4 | Híbrida | 18:00h | https://meet.google.com/zss-bhag-qqm | 
+| 26/10/2026 | Accesibilidad visual en personas con discapacidad intelectual: retos y soluciones | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
 | 27/10/2026 | Software portátil para diagnóstico visual: integración clínica y educativa | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
-| 29/10/2026 | Accesibilidad visual en personas con discapacidad intelectual: retos... | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
--->
+| 28/10/2026 | Software portátil para diagnóstico visual: diagnóstico y rehabilitación | Híbrida | 19:00h | https://meet.google.com/ant-kube-xod | 
+
 
 **Otras Conferencias**
 
@@ -61,7 +65,9 @@ Estas conferencias se enmarcan dentro del programa de actividades de la Cátedra
 
 **02/10/26 (11h-12h) -** *Inteligencia Artificial, IA Generativa y herramientas inclusivas: Sesión 2 · Herramientas, riesgos y buenas prácticas (también en tu TFM)* Charla CESEDEN. Paseo Castellana 61, Madrid.
 
-**12/10/26 (14h-16h) -** *Inteligencia Artificial accesible e inclusiva para la escritura de TFG y TFM* Master de Diseño interactiva - Escuela de Diseño - UPM
+**22/10/26 (14h-15h) -** *De la IA a la IA generativa: qué es y cómo funciona* Master de Diseño interactiva - ESCUELA SUPERIOR DE DISEÑO DE MADRID
+
+**22/10/26 (15h-16h) -** *Herramientas, riesgos y buenas prácticas (también en tu TFG y TFM)* Master de Diseño interactiva - ESCUELA SUPERIOR DE DISEÑO DE MADRID
 
 **28/10/26 (12h-14h) -** *Inteligencia Artificial accesible e inclusiva* conferencias AutosinergIA en Universidad Senior, Escola Politécnica de Enxeñaría de Ferrol, A Coruña. 
 
