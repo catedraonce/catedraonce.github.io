@@ -4,6 +4,40 @@
 
 Convocatoria de la **V Edición de los Premios ONCE-UCM a los mejores trabajos de fin de Grado y Máster** que trabajen la accesibilidad y la inclusión en cualquier área de conocimiento para el Curso 2025-26 abiertos a **todas las disciplinas y áreas de conocimiento** dentro de la UCM, siempre y cuando tengan la **accesibilidad e inclusión** como eje central. 
 
+**El Jurado** designado para la evaluación de los premios de la Cátedra ONCE-Tiflotecnología a los mejores Trabajos de Fin de Grado y Máster formada por: 
+
+* María Guijarro Mata-García: Directora de la Cátedra ONCE-Tiflotecnología de la Facultad de Informática de la UCM, como Presidenta.
+* Mª Carmen Millán Vera, Directora Ejecutiva del área de Autonomía Personal, Accesibilidad, Tecnología e Innovación y del Centro de Tiflotecnología e Innovación (CTI)
+* José María Ortiz Silva, Jefe del Departamento de Consultoría e Innovación
+* Guillermo Botella Juan, profesor de la Facultad de Informática (Dep. ACYA)
+* Joaquín Recas Piorno, Secretario de la Cátedra ONCE-Tiflotecnología
+
+**Ha decidido proponer los siguientes premios** a los mejores Trabajos de Fin de Grado y Máster en la convocatoria del curso 2025-26, con la relación de beneficiarios y la cuantía individualizada a conceder, conforme al acta de evaluación elaborada. 
+
+**El acto de entrega de estos premios será el jueves 19 de noviembre a las 18:00h en la Sala de Grados de la Facultad de Informática de la UCM**.
+
+### Trabajos de Fin de Master
+
+| nº   | Alumno/s                                                 | Facultad                        | Título                                                       | Premio |
+| ---- | -------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------ | ------ |
+| 1º   | Vera Iglesias Pérez                                      | Facultad de Bellas Artes        | Accesibilidad sensorial en espacios verdes urbanos para personas con discapacidad visual. Propuesta de guía de criterios de diseño | 550€   |
+| 2º   | Ainhoa María Armas González y Amina Benserghine Karmossi | Facultad de Óptica y Optometría | Estudio de la función visual mediante realidad virtual en pacientes con maculopatías | 300€   |
+| 3º   | Carla Valverde Prados                                    | Facultad de Filología           | Propuesta de accesibilidad museística para personas con discapacidad visual. Exposición de las obras de Pepe Baena | 150€   |
+
+### Trabajos de Fin de Grado
+
+| nº   | Alumno/s               | Facultad                               | Título                                                       | Premio |
+| ---- | ---------------------- | -------------------------------------- | ------------------------------------------------------------ | ------ |
+| 1º   | Diego Alonso Arceiz    | Facultad de Informática                | Desarrollo de un sistema inteligente multimodal para la asistencia de personas con discapacidad visual mediante técnicas de aprendizaje profundo | 550€   |
+| 2º   | Carla de Antonio Ramos | Facultad de Filología                  | Subtitulado para sordos de la partida de rol *Amor de Otro Mundo* | 300€   |
+| 3º   | Antía Zilbeti García   | Facultad de Ciencias de la Información | La accesibilidad como mediación en la reconstrucción de la identidad comunicativa en la Esclerosis Lateral Amiotrófica | 150€   |
+
+<!-- 
+TEXTO DE LA CONVOCATORIA 2025/26 (oculto). Para la próxima edición: copiar fuera del comentario
+bajo un nuevo encabezado "## Premios de la Cátedra a TFGs y TFMs 2026/27" y actualizar edición, curso y fechas.
+
+Convocatoria de la **V Edición de los Premios ONCE-UCM a los mejores trabajos de fin de Grado y Máster** que trabajen la accesibilidad y la inclusión en cualquier área de conocimiento para el Curso 2025-26 abiertos a **todas las disciplinas y áreas de conocimiento** dentro de la UCM, siempre y cuando tengan la **accesibilidad e inclusión** como eje central. 
+
 |                | **Premios TFGs:** |                |
 | :------------- | :---------------- | :------------- |
 | 1º Premio 550€ | 2º Premio 300€    | 3º Premio 150€ |
@@ -26,6 +60,7 @@ Convocatoria de la **V Edición de los Premios ONCE-UCM a los mejores trabajos d
 
 Tanto el documento de consentimiento como la memoria deberán entregarse en formato pdf.
 Las propuestas se enviarán por correo electrónico a **[catedraonce@ucm.es](mailto:catedraonce@ucm.es)** hasta el **5 de octubre de 2026**. Además de la documentación, los participantes habrán de realizar una presentación pública de la propuesta.
+-->
 
 
 ## Premios de la Cátedra a TFGs y TFMs 2024/25
